@@ -1,0 +1,14 @@
+{
+  "emojis": {
+    "coins": "<:coins:1134529649284747366>",
+    "error": "<:error:1134968696570400919>",
+    "correct": "<:correct:1134968639368478770>",
+    "timed": "<:timer_clock_1:1134969678545027092>"
+  },
+  "colors": {
+    "red": "0xdc143C",
+    "yellow": "0xffd700",
+    "green": "0x00ff7f",
+    "blue": "0x4169e1"
+  }
+}
