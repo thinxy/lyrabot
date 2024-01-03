@@ -8,7 +8,8 @@ export default new MessageCommand({
       messageMS = Date.now() / message.createdTimestamp;
 
     await message.reply({
-      content: `🏓 **Pong!** Minha latência está em \`${clientMS}\`, respondi essa mensagem em \`${messageMS}ms\`!F`,
+      content: `🏓 **Pong!** Minha latência está em \`${clientMS}\`, respondi essa mensagem em \`${messageMS}ms\`!`,
     });
   },
+  
 });
